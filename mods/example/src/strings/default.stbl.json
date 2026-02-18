@@ -1,0 +1,11 @@
+{
+  "locale": "English",
+  "group": "0x80000000",
+  "instanceBase": "0x4984603339BAF5",
+  "entries": {
+    "0x93454ACA": "This is your default string table. You can add strings to it from anywhere with the 'Add New String' command, or by right-clicking this stbl in the file explorer.",
+    "0x32A9D83A": "You can also press the 'New Entry' button in this JSON file, and a new entry will be added with a unique hash. For the string, just type right here in the JSON (remember to escape special characters, such as \", \\, and \\n).",
+    "0xC9BB8323": "While working on tuning, you can press 'Copy as XML' to quickly paste this string's key and comment into XML.",
+    "0x508D4E46": "Finally, VS Code tip: You can press ALT + Z (Windows) or OPTION + Z (macOS) to toggle line wrapping. This may make editing JSONs with long lines easier for you."
+  }
+}

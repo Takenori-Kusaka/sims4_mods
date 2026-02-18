@@ -1,0 +1,47 @@
+{
+  "buildInstructions": {
+    "source": "src",
+    "destinations": [
+      "out"
+    ],
+    "packages": [
+      {
+        "filename": "MyPackage",
+        "include": [
+          "**/*"
+        ],
+        "exclude": []
+      }
+    ]
+  },
+  "buildSettings": {
+    "allowEmptyPackages": false,
+    "allowFolderCreation": false,
+    "allowMissingSourceFiles": false,
+    "allowPackageOverlap": false,
+    "allowResourceKeyOverrides": false,
+    "outputBuildSummary": "partial"
+  },
+  "releaseSettings": {
+    "overrideDestinations": [],
+    "zips": [
+      {
+        "filename": "MyZippedModFiles",
+        "internalFolder": "",
+        "packages": [
+          "MyPackage"
+        ],
+        "otherFiles": {
+          "include": [],
+          "exclude": []
+        }
+      }
+    ]
+  },
+  "stringTableSettings": {
+    "allowStringKeyOverrides": false,
+    "defaultStringTable": "src/strings/default.stbl.json",
+    "generateMissingLocales": true,
+    "mergeStringTablesInSamePackage": true
+  }
+}

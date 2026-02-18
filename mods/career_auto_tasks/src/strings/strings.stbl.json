@@ -1,0 +1,9 @@
+{
+  "locale": "English",
+  "group": "0x80000000",
+  "instanceBase": "0x8C4A7000000001",
+  "entries": {
+    "0x8C4A7003": "Career Focus Active",
+    "0x8C4A7004": "Skill learning is boosted and career tasks are prioritized."
+  }
+}

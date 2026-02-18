@@ -1,0 +1,31 @@
+{
+  "name": "sims4-mod-tools",
+  "version": "1.0.0",
+  "description": "Sims 4 MOD開発用の調査・デバッグツール群",
+  "private": true,
+  "scripts": {
+    "hash-check": "ts-node hash-check.ts",
+    "inspect": "ts-node inspect-package.ts",
+    "inspect-mod": "ts-node inspect-working-mod.ts",
+    "compare": "ts-node compare-packages.ts",
+    "extract-schema": "ts-node extract-schema.ts",
+    "deep-inspect": "ts-node deep-inspect.ts",
+    "hex-compare": "ts-node hex-compare.ts",
+    "check-types": "ts-node check-s4tk-types.ts",
+    "extract-buff": "ts-node extract-buff-details.ts",
+    "extract-homework": "ts-node extract-homework-buff.ts",
+    "extract-career": "ts-node extract-career-interactions.ts",
+    "extract-xmlinjector": "ts-node extract-xmlinjector.ts",
+    "compute-hashes": "ts-node compute-snippet-hashes.ts",
+    "find-moods": "ts-node find-mood-ids.ts",
+    "find-tags": "ts-node find-tag-ids.ts"
+  },
+  "devDependencies": {
+    "@s4tk/hashing": "^0.2.1",
+    "@s4tk/models": "^0.6.14",
+    "@s4tk/xml-dom": "^0.2.6",
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

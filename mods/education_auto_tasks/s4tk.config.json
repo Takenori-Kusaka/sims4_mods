@@ -1,0 +1,29 @@
+{
+  "buildInstructions": {
+    "source": "src",
+    "destinations": [
+      "dist",
+      "C:\\Users\\kokor\\Documents\\Electronic Arts\\The Sims 4\\Mods"
+    ],
+    "packages": [
+      {
+        "filename": "KokorEducationAutoTasks",
+        "include": ["**/*"],
+        "exclude": ["scripts/**"]
+      }
+    ]
+  },
+  "buildSettings": {
+    "allowEmptyPackages": false,
+    "allowFolderCreation": true,
+    "allowMissingSourceFiles": false,
+    "allowPackageOverlap": false,
+    "allowResourceKeyOverrides": false,
+    "outputBuildSummary": "full"
+  },
+  "stringTableSettings": {
+    "allowStringKeyOverrides": false,
+    "generateMissingLocales": true,
+    "mergeStringTablesInSamePackage": true
+  }
+}

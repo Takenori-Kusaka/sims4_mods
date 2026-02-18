@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="Kokor_Snippet_CareerAutoTasks" s="7009664623703938109">
+  <L n="add_buffs_to_trait">
+    <U>
+      <T n="trait">34317<!--trait_teen--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">8441018518717753311<!--Kokor_Buff_CareerFocused--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">34318<!--trait_youngAdult--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">8441018518717753311<!--Kokor_Buff_CareerFocused--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">34319<!--trait_adult--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">8441018518717753311<!--Kokor_Buff_CareerFocused--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <T n="trait">34320<!--trait_elder--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">8441018518717753311<!--Kokor_Buff_CareerFocused--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+</I>

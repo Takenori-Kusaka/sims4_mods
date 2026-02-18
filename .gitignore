@@ -1,0 +1,32 @@
+# Dependencies
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/out/
+**/BuildSummary.json
+
+# Compiled MOD files (in case they appear outside dist/)
+*.ts4script
+
+# Game code extraction (decompiled game source - DO NOT commit)
+**/game_python_extracted/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+nul
+*.log
+*.tmp
+*.swp
+*~
+
+# IDE (uncomment if needed)
+# .vscode/

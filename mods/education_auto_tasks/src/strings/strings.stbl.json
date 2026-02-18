@@ -1,0 +1,9 @@
+{
+  "locale": "English",
+  "group": "0x80000000",
+  "instanceBase": "0x8EA17000000001",
+  "entries": {
+    "0x8EA17003": "Education Focus Active",
+    "0x8EA17004": "Skill learning and homework completion are boosted."
+  }
+}
