@@ -4,6 +4,8 @@
   "instanceBase": "0xA4B30000000001",
   "entries": {
     "0xA4B30001": "Event Autonomy Active",
-    "0xA4B30002": "Event-related activities are prioritized for autonomous completion."
+    "0xA4B30002": "Event-related activities are prioritized for autonomous completion.",
+    "0xA4B30003": "Aspiration Autonomy Active",
+    "0xA4B30004": "Aspiration-related activities are prioritized for autonomous completion."
   }
 }

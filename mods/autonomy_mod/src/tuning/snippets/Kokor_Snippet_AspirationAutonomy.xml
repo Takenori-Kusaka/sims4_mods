@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="Kokor_Snippet_AspirationAutonomy" s="9581053876121646196">
+  <L n="add_buffs_to_trait">
+    <!-- trait_toddler -->
+    <U>
+      <T n="trait">170699<!--trait_toddler--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">4823729553343165992<!--Kokor_Buff_AspirationAutonomy--></T>
+        </U>
+      </L>
+    </U>
+    <!-- trait_child -->
+    <U>
+      <T n="trait">34316<!--trait_child--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">4823729553343165992<!--Kokor_Buff_AspirationAutonomy--></T>
+        </U>
+      </L>
+    </U>
+    <!-- trait_teen -->
+    <U>
+      <T n="trait">34317<!--trait_teen--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">4823729553343165992<!--Kokor_Buff_AspirationAutonomy--></T>
+        </U>
+      </L>
+    </U>
+    <!-- trait_youngAdult -->
+    <U>
+      <T n="trait">34318<!--trait_youngAdult--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">4823729553343165992<!--Kokor_Buff_AspirationAutonomy--></T>
+        </U>
+      </L>
+    </U>
+    <!-- trait_adult -->
+    <U>
+      <T n="trait">34319<!--trait_adult--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">4823729553343165992<!--Kokor_Buff_AspirationAutonomy--></T>
+        </U>
+      </L>
+    </U>
+    <!-- trait_elder -->
+    <U>
+      <T n="trait">34320<!--trait_elder--></T>
+      <L n="buffs">
+        <U>
+          <T n="buff_type">4823729553343165992<!--Kokor_Buff_AspirationAutonomy--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+</I>
